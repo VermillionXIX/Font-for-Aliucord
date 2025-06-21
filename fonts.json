@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Poppins Light",
+    "previewText": "Geometric sans serif typefaces have always been popular.(Light version)",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-Bold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-BoldItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-ExtraBold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-ExtraBoldItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-Medium": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-MediumItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-Normal": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-NormalItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-Semibold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "ggsans-SemiboldItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-Bold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-ExtraBold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-Medium": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-Normal": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-NormalItalic": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "NotoSans-Semibold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF",
+        "SourceCodePro-Semibold": "https://github.com/VermillionXIX/Font-for-Aliucord/blob/main/ANIMEMATRIX-MB_EN.TTF"
+    }
+}
